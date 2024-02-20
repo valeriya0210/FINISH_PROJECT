@@ -1,0 +1,44 @@
+
+-----
+Test: page/test_buy_product.py::test_select_product (call)
+Start time: 2024-02-20 19:16:23.047374
+Start name method: select_main_menu
+
+End time: 2024-02-20 19:16:25.405739
+End name method: select_main_menu
+URL: https://kazanexpress.ru/search?query=%D0%9A%D1%83%D1%80%D1%82%D0%BA%D0%B8&needsCorrection=1
+
+-----
+
+-----
+Test: page/test_buy_product.py::test_select_product (call)
+Start time: 2024-02-20 19:16:25.409792
+Start name method: clothe_search
+
+End time: 2024-02-20 19:16:32.945645
+End name method: clothe_search
+URL: https://kazanexpress.ru/cart
+
+-----
+
+-----
+Test: page/test_buy_product.py::test_select_product (call)
+Start time: 2024-02-20 19:16:33.138607
+Start name method: payment
+
+End time: 2024-02-20 19:16:38.719377
+End name method: payment
+URL: https://kazanexpress.ru/checkout
+
+-----
+
+-----
+Test: page/test_buy_product.py::test_select_product_2 (call)
+Start time: 2024-02-20 19:16:44.832537
+Start name method: choose_product
+
+End time: 2024-02-20 19:16:53.271236
+End name method: choose_product
+URL: https://kazanexpress.ru/product/elektronika-126042?erid=2VtzqxH67CZ
+
+-----
