@@ -1,3 +1,4 @@
+#Страница выдачи товара, здесь мы настраиваем фильтры - цена, рост, наличие капюшона. Кликаем на карточку, подтверждаем параметры и отправляем в корзину.
 import time
 from selenium.webdriver.common.by import By
 from selenium.webdriver.support.ui import WebDriverWait
