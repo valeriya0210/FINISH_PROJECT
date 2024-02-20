@@ -1,3 +1,4 @@
+#Главная страница - в поиске вбиваем значение и переходим на следующую страницу с выдачей товара.
 import time
 from selenium.webdriver.common.by import By
 from selenium.webdriver.support.ui import WebDriverWait
